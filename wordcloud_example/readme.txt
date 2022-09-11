@@ -1,0 +1,1 @@
+This data is from https://github.com/amueller/word_cloud/tree/master/examples, please have a look at his repository for further explanations.
