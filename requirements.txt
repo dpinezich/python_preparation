@@ -90,5 +90,5 @@ urllib3==1.26.12
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==4.0.3
-wordcloud==1.8.2.2
+-e git+https://github.com/amueller/word_cloud@dbf7ab7753a36e1c12c0e1b36aeeece5023f39f9#egg=wordcloud
 zipp==3.8.1
